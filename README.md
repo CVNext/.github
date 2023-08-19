@@ -1,1 +1,3 @@
-# .github
+# CVNext
+
+[website](https://cvnext.github.io/)
